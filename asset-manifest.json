@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://yellow-detteiu.github.io/csb-yniz7j/static/js/main.0a0db946.chunk.js",
+    "main.js.map": "https://yellow-detteiu.github.io/csb-yniz7j/static/js/main.0a0db946.chunk.js.map",
+    "runtime-main.js": "https://yellow-detteiu.github.io/csb-yniz7j/static/js/runtime-main.de60aa66.js",
+    "runtime-main.js.map": "https://yellow-detteiu.github.io/csb-yniz7j/static/js/runtime-main.de60aa66.js.map",
+    "static/js/2.60025239.chunk.js": "https://yellow-detteiu.github.io/csb-yniz7j/static/js/2.60025239.chunk.js",
+    "static/js/2.60025239.chunk.js.map": "https://yellow-detteiu.github.io/csb-yniz7j/static/js/2.60025239.chunk.js.map",
+    "index.html": "https://yellow-detteiu.github.io/csb-yniz7j/index.html",
+    "static/js/2.60025239.chunk.js.LICENSE.txt": "https://yellow-detteiu.github.io/csb-yniz7j/static/js/2.60025239.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de60aa66.js",
+    "static/js/2.60025239.chunk.js",
+    "static/js/main.0a0db946.chunk.js"
+  ]
+}
